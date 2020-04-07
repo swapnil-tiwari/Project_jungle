@@ -1,0 +1,57 @@
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.clear-bottommargin {
+  margin-bottom: -50px !important;
+}
+
+
+legend.scheduler-border {
+  width:inherit; /* Or auto */
+  padding:0 10px; /* To give a bit of padding on the left and right */
+  border-bottom:none;
+}
+
+.feature-box.fbox-bg.fbox-center:first-child {
+  margin-top: 100px;
+}
+.feature-box.fbox-bg.fbox-center {
+  /*margin-top: 68px;*/
+  padding: 68px 30px 30px;
+  background-color: #FFF;
+  border: 1px solid #E5E5E5;
+  border-radius: 5px;
+}
+.feature-box.fbox-center {
+  /*padding: 0;*/
+  text-align: center;
+}
+.feature-box:first-child {
+  /*margin-top: 0;*/
+}
+.feature-box {
+  position: relative;
+  /*margin-top: 20px;*/
+  /*padding: 0 0 0 80px;*/
+}
+
+.fbox-icon{
+  margin-top: -130px;
+}
+
+.text{
+  padding: 30px;
+}
+
+.clear-bottommargin img{
+  width: 100px;
+  height: 100px;
+}
