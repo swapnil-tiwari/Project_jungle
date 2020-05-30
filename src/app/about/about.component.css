@@ -8,3 +8,22 @@
   -ms-background-size: cover;
   min-height: 85px;
 }
+.img-rounded
+{
+    margin: 15px;
+    width: 240px;
+    height: 310px;
+}
+i
+{
+  color:green;
+  text-align: center;
+}
+.image>div 
+{
+  margin: auto;
+}
+.image>div>h3,h5
+{
+  text-align: center;
+}
