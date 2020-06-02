@@ -1,10 +1,14 @@
 .inner_page-banner {
   text-align: center;
-  background: url(/assets/images/dummy/b3.jpg) no-repeat center;
+  background: url(/assets/prototype/lko-prototype.jpeg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -ms-background-size: cover;
   min-height: 300px;
+}
+i
+{
+  color:#19ef19;
 }
