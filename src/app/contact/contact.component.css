@@ -8,7 +8,10 @@
   -ms-background-size: cover;
   min-height: 85px;
 }
-
+.using-border
+{
+  /* background-color: #19ef19 !important; */
+}
 .carousel-item {
   height: 100vh;
   min-height: 300px;
