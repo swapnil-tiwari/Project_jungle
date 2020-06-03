@@ -1,6 +1,6 @@
 .inner_page-banner {
   text-align: center;
-  background: url(/assets/prototype/lko-prototype.jpeg) no-repeat center;
+  /* background: url(/assets/prototype/lko-prototype.jpeg) no-repeat center; */
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -11,4 +11,20 @@
 i
 {
   color:#19ef19;
+}
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+
+}
+.carousel-caption:hover
+{
+  background: #ffffffb3;
+  color:#204e03;
 }
